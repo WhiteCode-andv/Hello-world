@@ -1,5 +1,4 @@
 # Hello-world
-just another fking repository
 
 Hello guys!
 
